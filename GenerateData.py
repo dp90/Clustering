@@ -1,3 +1,11 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun May 24 14:35:50 2020
+
+@author: David Kroon
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 
